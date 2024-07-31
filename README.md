@@ -100,6 +100,7 @@ include_once('controller/conexao.php');
 
 Marca
 Arquivo: `marca.php`
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,4 +126,5 @@ Arquivo: `marca.php`
     </section>
 </body>
 </html>
+```
 
