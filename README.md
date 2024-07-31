@@ -244,6 +244,8 @@ mysqli_close($mysqli);
 * 𝗚𝗜𝗧𝗛𝗨𝗕
 * 𝗣𝗛𝗣
 
+## Autores ✒️
+ `Veronica` :https://github.com/veronicarodrigues07
 
 
 
