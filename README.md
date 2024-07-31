@@ -227,5 +227,11 @@ if (mysqli_query($mysqli, $cad_categoria)) {
 mysqli_close($mysqli);
 ?>
 ```
+Referências
+Documentação do PHP
+Guia de Referência do MySQL
+Para mais detalhes sobre o projeto e contribuição, consulte o repositório no GitHub.
+
+
 
 
