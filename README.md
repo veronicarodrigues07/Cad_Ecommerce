@@ -245,7 +245,7 @@ mysqli_close($mysqli);
 * 𝗣𝗛𝗣
 
 ## Autores ✒️
- [Veronica](https://github.com/veronicarodrigues07)
+ [Veronica](https://github.com/veronicarodrigues07) 🙋‍♀️
 
 
 
