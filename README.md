@@ -97,7 +97,7 @@ include_once('controller/conexao.php');
     </section>
 </body>
 </html>
-
+```
 Marca
 Arquivo: `marca.php`
 ```php
