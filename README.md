@@ -27,7 +27,7 @@
 
 ### 𝑇𝑒𝑙𝑎 𝑑𝑒 𝐶𝑎𝑑𝑎𝑠𝑡𝑟𝑜 𝑑𝑒 𝐶𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑎𝑠
 
-![Tela de Cadastro de Categorias](img/categoria.png)
+![Tela de Cadastro de Categorias](img/categorias.png)
 
 ## 𝐸𝑠𝑡𝑟𝑢𝑡𝑢𝑟𝑎 𝑑𝑜 𝐵𝑎𝑛𝑐𝑜 𝑑𝑒 𝐷𝑎𝑑𝑜𝑠
 
