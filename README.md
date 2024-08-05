@@ -23,11 +23,11 @@
 
 ### 𝑇𝑒𝑙𝑎 𝑑𝑒 𝐶𝑎𝑑𝑎𝑠𝑡𝑟𝑜 𝑑𝑒 𝑀𝑎𝑟𝑐𝑎𝑠
 
-![Tela de Cadastro de Marcas](caminho/para/imagem/cadastro_marcas.png)
+![Tela de Cadastro de Marcas](img/marca.png)
 
 ### 𝑇𝑒𝑙𝑎 𝑑𝑒 𝐶𝑎𝑑𝑎𝑠𝑡𝑟𝑜 𝑑𝑒 𝐶𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑎𝑠
 
-![Tela de Cadastro de Categorias](caminho/para/imagem/cadastro_categorias.png)
+![Tela de Cadastro de Categorias](img/categoria.png)
 
 ## 𝐸𝑠𝑡𝑟𝑢𝑡𝑢𝑟𝑎 𝑑𝑜 𝐵𝑎𝑛𝑐𝑜 𝑑𝑒 𝐷𝑎𝑑𝑜𝑠
 
