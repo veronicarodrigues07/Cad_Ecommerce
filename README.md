@@ -19,7 +19,7 @@
 
 ### 𝑇𝑒𝑙𝑎 𝑑𝑒 𝐶𝑎𝑑𝑎𝑠𝑡𝑟𝑜 𝑑𝑒 𝑃𝑟𝑜𝑑𝑢𝑡𝑜𝑠
 
-![Tela de Cadastro de Produtos](caminho/para/imagem/cadastro_produtos.png)
+![Tela de Cadastro de Produtos](img/produtos.png)
 
 ### 𝑇𝑒𝑙𝑎 𝑑𝑒 𝐶𝑎𝑑𝑎𝑠𝑡𝑟𝑜 𝑑𝑒 𝑀𝑎𝑟𝑐𝑎𝑠
 
